@@ -6,8 +6,7 @@
   justify-content: center;
 }
 
-header {
-  margin-top: 15px;
+h2{
   display: flex;
-  justify-content: center;
+  margin-left: 120px;
 }
