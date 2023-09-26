@@ -12,13 +12,19 @@
 .content__cover > img {
   border: 1px solid rgb(144, 144, 144);
   border-radius: 8px;
-  width: 500px;
+  width: 300px;
   min-width: 500px;
   height: 300px;
 }
 
 .content__description {
+  width: 600px;
   margin-top: 15px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .content__description > p {
